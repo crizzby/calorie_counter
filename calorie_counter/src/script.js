@@ -4,3 +4,12 @@ const entryDropdown = document.getElementById('entry-dropdown');
 const addEntryButton = document.getElementById('add-entry');
 const clearButton = document.getElementById('clear');
 const output = document.getElementById('output');
+
+let isError = false;
+
+function cleanInputString(str) {
+    const strArray = str.split('');
+    let cleanStrArray = [];
+    for (strArray);
+
+}
